@@ -1,1 +1,1 @@
-Delete the directory my first directory thats in the tmp directory
+Changes working directory to the previous one
