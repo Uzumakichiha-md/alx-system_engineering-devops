@@ -1,1 +1,1 @@
-Script that moves all files begining with an uppercase letter to the directory  tmp u
+Script that deletes all the files in the current working directory that end with characterwiggly line
