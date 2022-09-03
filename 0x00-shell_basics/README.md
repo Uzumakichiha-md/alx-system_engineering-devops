@@ -1,1 +1,1 @@
-Display current directory contents with user and group id names displayed numerically and hidden files
+A script that creates a directory named my first directory in tmp directory
