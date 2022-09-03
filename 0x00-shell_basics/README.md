@@ -1,1 +1,1 @@
-Script that deletes all the files in the current working directory that end with characterwiggly line
+Script that creates the directories welcome welcome to and welcome to school
