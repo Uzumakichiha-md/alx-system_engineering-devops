@@ -1,1 +1,1 @@
-Script that creates the directories welcome welcome to and welcome to school
+Command that lists files and directories of the current directory separated by commas and directories names should end with slash hidden files and directores should be listed listing should be in alpha order except for working and parent to working directory which should be listed first only digits and letters used to sort with digits coming first and listing tobe in a new line
